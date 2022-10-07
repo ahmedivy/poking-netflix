@@ -9,4 +9,4 @@ This the Data Science Case-Study for an Anonymous Purpose.
 In this project, we are digging into a real-world Netflix movie dataset using everything from lists and loops to Pandas and Matplotlib.
 
 ### Instructions
-For thorough understanding of the project, see <a href="https://github.com/ahmedivy/poking-netflix/blob/main/notebook.ipynb">Jupiter Notebook</a>, while simple Python Code is also there.
+For thorough understanding of the project, see this <a href="https://app.datacamp.com/workspace/w/a4478607-066c-489d-99cb-702db76e48df">blog</a>, while to get simple Python Code and Jupiter Notebook clone it.
